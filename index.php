@@ -14,8 +14,7 @@ if($_REQUEST["function"]=="sendemails"){
 <!-- jquery -->
 <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
 <!-- jquery ui -->
-<link rel="stylesheet" href="js/jquery
-ui/jquery-ui.css" type="text/css" />
+<link rel="stylesheet" href="js/jqueryui/jquery-ui.css" type="text/css" />
 <script type="text/javascript" src="js/jqueryui/jquery-ui.js"></script>
 <!-- bootstrap -->
 
